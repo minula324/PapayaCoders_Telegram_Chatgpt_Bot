@@ -65,7 +65,7 @@ class ChatGPT {
     } else {
       throw new RangeError('Invalid API type');
     }
-    logWithTime('🔮 ChatGPT API has started...');
+    logWithTime('🔮 Minula Ai API has started...');
   };
 
   sendMessage = async (
